@@ -64,7 +64,7 @@ function Quiz() {
   return (
     <div className='text-center'>
       <div className="min-h-screen flex flex-col justify-center">
-        <h1 className='text-4xl font-bold mb-4 text-white font-sans'>Incredible Quiz App</h1>
+        <h1 className='text-4xl font-bold mb-4 text-white font-sans'>Interesting & Incredible Quiz App</h1>
       {showScore ? (
         <div>
           <h2 className='text-xl font-semibold mb-4 text-white'>
